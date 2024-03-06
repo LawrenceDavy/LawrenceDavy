@@ -8,6 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/LawrenceDavy/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/LawrenceDavy/configure-ad)
+  - [Building Intuition for DNS](https://github.com/LawrenceDavy/building-intuition-dns)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/LawrenceDavy/azure-network-protocols)
 
 <h2>👨‍💻 Devops Projects:</h2>
@@ -37,4 +38,4 @@
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/lawrence-davy-4418b7116/
+[linkedin]: https://www.linkedin.com/in/lawrencedavy
