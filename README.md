@@ -18,6 +18,13 @@
   - [Creating a CI/CD pipline from start to finish without using Kubernetes](https://github.com/LawrenceDavy/DevopsProject-2)
   - [Kubernetes project using helm](https://github.com/LawrenceDavy/DevopsProject-3)
  
+<h2>👨‍💻 AZ-900 Projects:</h2>
+
+- <b></b>
+  - [Azure-Static-Website-Guide](https://github.com/LawrenceDavy/Azure-Static-Website-Guide)
+- <b></b>
+  - [Azure-CLI-Virtual-Machine-Deployment-with-Networking-and-Monitoring](https://github.com/LawrenceDavy/Azure-CLI-Virtual-Machine-Deployment-with-Networking-and-Monitoring)
+ 
 <h2>👨‍💻 Full-Stack Dev Projects:</h2>
 
 -  <b>Helm website</b>
