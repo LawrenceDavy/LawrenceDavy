@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lawrence, an <a href="https://www.linkedin.com/in/lawrence-davy-4418b7116/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Lawrence, an <a href="https://www.linkedin.com/in/lawrence-davy-4418b7116/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
