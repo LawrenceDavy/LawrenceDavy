@@ -1,48 +1,34 @@
-<h1>Hi, I'm Lawrence, an <a href="https://www.linkedin.com/in/lawrence-davy-4418b7116/">IT Professional</a></h1>
+# Lawrence Davy
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+**Detection Engineering | KQL | Microsoft Sentinel | Azure Security | AI Security**
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/LawrenceDavy/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/LawrenceDavy/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/LawrenceDavy/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/LawrenceDavy/configure-ad)
-  - [Building Intuition for DNS](https://github.com/LawrenceDavy/building-intuition-dns)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/LawrenceDavy/azure-network-protocols)
+Security-focused engineer building detection logic, cloud security infrastructure, and AI threat defence tooling.
 
-<h2>👨‍💻 Devops Projects:</h2>
+---
 
-- <b>AWS CI/CD</b>
-  - [CI/CD pipline with Kubernetes](https://github.com/LawrenceDavy/DevopsProject-1)
-  - [Creating a CI/CD pipline from start to finish without using Kubernetes](https://github.com/LawrenceDavy/DevopsProject-2)
-  - [Kubernetes project using helm](https://github.com/LawrenceDavy/DevopsProject-3)
- 
-<h2>👨‍💻 AZ-900 Projects:</h2>
+## 🔒 Security & Detection Engineering
 
-- <b></b>
-  - [Azure-Static-Website-Guide](https://github.com/LawrenceDavy/Azure-Static-Website-Guide)
-- <b></b>
-  - [Azure-CLI-Virtual-Machine-Deployment-with-Networking-and-Monitoring](https://github.com/LawrenceDavy/Azure-CLI-Virtual-Machine-Deployment-with-Networking-and-Monitoring)
- 
-<h2>👨‍💻 Full-Stack Dev Projects:</h2>
+*Coming soon — active development*
 
--  <b>Helm website</b>
-   - [Weather app](https://github.com/LawrenceDavy/weatherapp)
- 
-<h2>👨‍💻 Python Projects:</h2>
+| Project | Focus | Status |
+|---------|-------|--------|
+| `detection-engineering-kql` | KQL detection queries mapped to MITRE ATT&CK | 🔨 In Progress |
+| `secure-cloud-lab-iac` | Purple Team loop: attack → detect → tune → automate | 🔜 Planned |
+| `secure-llm-agentic-service` | LLM attack/defence demos (OWASP Top 10 for LLM) | 🔜 Planned |
 
-- <b>Django websites</b>
-  - [Dental Site](https://github.com/LawrenceDavy/dentist_site)
-  - [Stock Exchange](https://github.com/LawrenceDavy/stocks)
- 
-<h2>👨‍💻 Front-End Projects:</h2>
+## ☁️ Cloud & Infrastructure
 
-- <b>Non-react js websites</b>
-  - [Tattoo Site](https://github.com/LawrenceDavy/tattooSite)
+| Project | Description |
+|---------|-------------|
+| [Azure Active Directory](https://github.com/LawrenceDavy/configure-ad) | Configuring AD within Azure VMs |
+| [Network Security Groups](https://github.com/LawrenceDavy/azure-network-protocols) | NSGs and inspecting network protocols |
+| [DNS](https://github.com/LawrenceDavy/building-intuition-dns) | DNS resolution and record types |
+| [CI/CD with Kubernetes](https://github.com/LawrenceDavy/DevopsProject-1) | AWS CI/CD pipeline with K8s |
 
-<h2>🤳Connect with me:</h2>
+## 📜 Certifications
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- Microsoft SC-200 *(in progress)*
 
-[linkedin]: https://www.linkedin.com/in/lawrencedavy
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrencedavy)
